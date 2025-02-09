@@ -1,0 +1,14 @@
+C:\Temp\DetectCapital\bin\Debug\net8.0\DetectCapital.exe
+C:\Temp\DetectCapital\bin\Debug\net8.0\DetectCapital.deps.json
+C:\Temp\DetectCapital\bin\Debug\net8.0\DetectCapital.runtimeconfig.json
+C:\Temp\DetectCapital\bin\Debug\net8.0\DetectCapital.dll
+C:\Temp\DetectCapital\bin\Debug\net8.0\DetectCapital.pdb
+C:\Temp\DetectCapital\obj\Debug\net8.0\DetectCapital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\DetectCapital\obj\Debug\net8.0\DetectCapital.AssemblyInfoInputs.cache
+C:\Temp\DetectCapital\obj\Debug\net8.0\DetectCapital.AssemblyInfo.cs
+C:\Temp\DetectCapital\obj\Debug\net8.0\DetectCapital.csproj.CoreCompileInputs.cache
+C:\Temp\DetectCapital\obj\Debug\net8.0\DetectCapital.dll
+C:\Temp\DetectCapital\obj\Debug\net8.0\refint\DetectCapital.dll
+C:\Temp\DetectCapital\obj\Debug\net8.0\DetectCapital.pdb
+C:\Temp\DetectCapital\obj\Debug\net8.0\DetectCapital.genruntimeconfig.cache
+C:\Temp\DetectCapital\obj\Debug\net8.0\ref\DetectCapital.dll

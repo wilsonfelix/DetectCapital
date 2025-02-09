@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DetectCapital": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
